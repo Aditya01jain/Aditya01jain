@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Jain</h1>
-<h3 align="center">VIT'25 | Flutter Dev | Full Stack Developer | Competitive Coder</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/68704579/129339937-b058372f-3d90-4b3e-9b4c-ea85b2b9b8f6.png" alt="coding" />
-</p>
+<h1 align="center">Hello World! 👋 I'm Aditya Jain</h1>
+<h3 align="center">Aspiring Software Engineer | VIT'25 | Flutter & Full Stack Developer | Competitive Programming Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codechef-1503-orange?style=for-the-badge&logo=codechef" alt="Codechef Rating" />
@@ -12,7 +8,7 @@
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
+<h3 align="left">🔗 Let's Connect:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/adityajain2603/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -30,7 +26,7 @@
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 My Toolkit:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
@@ -69,28 +65,24 @@
 
 <h3 align="left">🏆 Achievements:</h3>
 <ul>
-  <li>Ranked 3033 with 71 points in Google Code Jam Qualification round</li>
-  <li>Hackerrank: 5-star in C++, SQL, Java</li>
-  <li>Solved over 1000+ coding challenges across LeetCode, GeeksforGeeks</li>
-  <li>2nd rank in the Game of Code Hackathon</li>
-  <li>Successfully contributed to 5 projects in Hacktoberfest 2023</li>
+  <li>Ranked <strong>3033</strong> with <strong>71 points</strong> in Google Code Jam Qualification round.</li>
+  <li>Earned <strong>5-star ratings</strong> on HackerRank in C++, SQL, and Java.</li>
+  <li>Solved <strong>1000+</strong> coding challenges on LeetCode and GeeksforGeeks.</li>
+  <li>Secured <strong>2nd place</strong> in the Game of Code Hackathon.</li>
+  <li>Contributed to <strong>5 projects</strong> during Hacktoberfest 2023.</li>
 </ul>
 
 ---
 
-<h3 align="left">🚀 Projects:</h3>
+<h3 align="left">🚀 Featured Projects:</h3>
 <ul>
-  <li><strong>VcollabIT:</strong> A collaboration platform using React.js, Node.js, and MongoDB.</li>
-  <li><strong>EventOR:</strong> Event management app built with Flutter and Firebase.</li>
-  <li><strong>Job Board:</strong> Job listing platform using React.js and Express.js.</li>
+  <li><strong>VcollabIT:</strong> A dynamic collaboration platform built using <em>React.js</em>, <em>Node.js</em>, and <em>MongoDB</em>. Facilitates seamless team interaction and project management.</li>
+  <li><strong>EventOR:</strong> A comprehensive event management app developed with <em>Flutter</em> and <em>Firebase</em>, featuring real-time updates and QR code integration.</li>
+  <li><strong>Job Board:</strong> A job listing platform created using <em>React.js</em> and <em>Express.js</em>, offering a user-friendly interface for job seekers and recruiters.</li>
 </ul>
 
 ---
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aditya01jain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge&logo=markdown" alt="Made with Markdown" />
 </p>
